@@ -8,11 +8,10 @@ Thank you, Shaquille, Trio, Gavin and Wen Qian, for being... _interesting_ teamm
 
 ## Table of Contents
 * [General Information](#general-information)
-* [Technologies Used](#technologies-used)
 * [Ideation](#ideation)
 * [Prototype](#prototype)
 * [Discussion](#discussion)
-* [Photos](#photos)
+* [Conclusion](#conclusion)
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
@@ -34,20 +33,32 @@ Thank you, Shaquille, Trio, Gavin and Wen Qian, for being... _interesting_ teamm
 We used **python and pyaudio** as a platform to act as a median between the external mic and laptop speakers, and to house the code.
 
 ### Demonstration
+![Demonstration](https://github.com/pohss-com-sg/eduservesg/blob/main/demonstration.png)
 
 ## Discussion
-* Our prototype mainly benefits the students that want to study when no teacher is around and also helps reduce the need of Teachers having to come over and watch the class.
-* The current InAudible prototype does not cost much as it is only powered by a microbit and simple components.
-* However, we may enhance the display with larger and more visible graphics on larger screens to improve visibility for the whole class, and these may be costly to install.
+### What do you think of EduServeSG?
+- It can help monitor students’ activities during periods where a teacher is not around
+- the current prototype is rather cost-effective due to its part list 
+- It reduces total noise in school, through peer pressure, social unrest, punishment, and rewards.
+- Improves overall mood in school, reducing stress caused by noise
+- Provides optimal learning environment, reducing noise
+- Improves public image of school
+### What are some limitations?
+- The methods used by EduserveSG may be controversial, in terms of morality. However, we have class cleanliness, which is quite a similar system, so I believe the morality of this is absolutely fine.
+### What could be some further expansions/improvements made?
+- Have a whole separate prototype for this, instead of using laptops of teachers, to minimise disruption of classes due to the prototype. This would only be possible if the school budget would to increase.
+- We could record the noise level of individual students, but would require much expansion, over-complication, and over-development of product, won’t be sustainable.
 
-### inAudible enhances leadership qualities in each student, and helps them concentrate on work when no teacher is around. There are some possible improvements to this system for future iterations, to improve effectiveness.
 
-## Photos
+## Conclusion
+eduServeSG is a promising start to reducing noise and its effects, providing a nice and quiet environment to work and study in.
+In the future, we hope to improve EduserveSG further, and we hope the school can afford such a financial burden
+Hopefully, our project can revolutionise schools, perhaps even acting as a gateway for other intriguing and helpful ideas to come about.
+
 
 ## Acknowledgements
 We had a really interesting time with this project, and learnt a lot from this experience.
-We would like to thank the following for their support to our team:
-* **Methodist Girls' School** and **Nanyang Polytechnic** for organising the competition, for the Microbit training, and for hosting our tour at the NYP MakerSpace.
-* Our **teachers** for guiding and supporting us: Mr Tan, Mr Kwok, Mr Lim, Mr Quek.
-* Our **mentors** for mentoring us.
-* Our **friends** from the other teams for their encouragement and friendship.
+We would like to thank the following:
+* **Liang Jun (a friend)** for providing information on pyaudio
+* Our **team members** for putting their best effort! They were certainly... a treat to work with haha.
+* Our teacher and mentor, **Mr Chan** and **Titus** for giving us help for our project.
